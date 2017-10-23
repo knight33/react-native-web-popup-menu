@@ -1,2 +1,3 @@
 # react-native-web-popup-menu
-cloned to make with 
+Modified version to work with react-native-web
+https://github.com/instea/react-native-popup-menu.git
